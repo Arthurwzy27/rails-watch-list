@@ -1,0 +1,15 @@
+.btn-flat {
+  color: rgb(255, 255, 255);
+  padding: 8px 24px;
+  border-radius: 4px;
+  background: linear-gradient(0.3turn, #3f87a6, #ebf8e1, #f69d3c);
+  transition: background 0.3s ease;
+}
+
+.btn-cancel {
+  color: white;
+  padding: 8px 24px;
+  border-radius: 4px;
+  background: #6a757e;
+  transition: background 0.3s ease;
+}
